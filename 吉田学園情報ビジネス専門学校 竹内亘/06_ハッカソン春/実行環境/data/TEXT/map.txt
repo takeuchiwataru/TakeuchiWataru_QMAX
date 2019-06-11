@@ -1,0 +1,111 @@
+#==============================================================================
+#
+# 『モデルビューワ』マップファイル [map.txt]
+#  Author : Hodaka Niwa
+#
+#==============================================================================
+
+#------------------------------------------------------------------------------
+# 読み込むテクスチャファイル名
+#------------------------------------------------------------------------------
+FIELD_TEXTURENAME = data/TEXTURE/field000.jpg
+FIELD_TEXTURENAME = data/TEXTURE/field001.jpg
+
+WALL_TEXTURENAME = data/TEXTURE/wall000.jpg
+
+#------------------------------------------------------------------------------
+# 表示するマップの配置情報
+#------------------------------------------------------------------------------
+#-----------
+# フィールド
+#-----------
+FIELDSET
+    textype = 0
+	pos = 0.0 0.0 0.0
+	rot = 0.0 0.0 0.0
+	side = 150.0
+	depth = 150.0
+	XBlock = 20
+	ZBlock = 20
+END_FIELDSET
+
+FIELDSET
+    textype = 1
+	pos = 3000.0 0.0 0.0
+	rot = 0.0 0.0 0.0
+	side = 150.0
+	depth = 150.0
+	XBlock = 20
+	ZBlock = 20
+END_FIELDSET
+
+FIELDSET
+    textype = 1
+	pos = 3000.0 0.0 3000.0
+	rot = 0.0 0.0 0.0
+	side = 150.0
+	depth = 150.0
+	XBlock = 20
+	ZBlock = 20
+END_FIELDSET
+
+FIELDSET
+    textype = 1
+	pos = 3000.0 0.0 -3000.0
+	rot = 0.0 0.0 0.0
+	side = 150.0
+	depth = 150.0
+	XBlock = 20
+	ZBlock = 20
+END_FIELDSET
+
+FIELDSET
+    textype = 1
+	pos = -3000.0 0.0 0.0
+	rot = 0.0 0.0 0.0
+	side = 150.0
+	depth = 150.0
+	XBlock = 20
+	ZBlock = 20
+END_FIELDSET
+
+FIELDSET
+    textype = 1
+	pos = -3000.0 0.0 3000.0
+	rot = 0.0 0.0 0.0
+	side = 150.0
+	depth = 150.0
+	XBlock = 20
+	ZBlock = 20
+END_FIELDSET
+
+FIELDSET
+    textype = 1
+	pos = -3000.0 0.0 -3000.0
+	rot = 0.0 0.0 0.0
+	side = 150.0
+	depth = 150.0
+	XBlock = 20
+	ZBlock = 20
+END_FIELDSET
+
+FIELDSET
+    textype = 1
+	pos = 0.0 0.0 3000.0
+	rot = 0.0 0.0 0.0
+	side = 150.0
+	depth = 150.0
+	XBlock = 20
+	ZBlock = 20
+END_FIELDSET
+
+FIELDSET
+    textype = 1
+	pos = 0.0 0.0 -3000.0
+	rot = 0.0 0.0 0.0
+	side = 150.0
+	depth = 150.0
+	XBlock = 20
+	ZBlock = 20
+END_FIELDSET
+

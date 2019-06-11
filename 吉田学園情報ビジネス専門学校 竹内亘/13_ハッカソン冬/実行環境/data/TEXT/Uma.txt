@@ -1,0 +1,95 @@
+NUM_MODEL = 11
+
+MODEL_FILENAME = data/MODEL/uma/body.x
+MODEL_FILENAME = data/MODEL/uma/headmask.x
+MODEL_FILENAME = data/MODEL/uma/migimaemomo.x
+MODEL_FILENAME = data/MODEL/uma/migimaeasi.x
+MODEL_FILENAME = data/MODEL/uma/hidarimaemomo.x
+MODEL_FILENAME = data/MODEL/uma/hidarimaeasi.x
+MODEL_FILENAME = data/MODEL/uma/migiusiromomo.x
+MODEL_FILENAME = data/MODEL/uma/migiusiroasi.x
+MODEL_FILENAME = data/MODEL/uma/hidariusiromomo.x
+MODEL_FILENAME = data/MODEL/uma/hidariusiroasi.x
+MODEL_FILENAME = data/MODEL/uma/sori.x
+
+CHARACTERSET
+	NUM_PARTS = 11
+
+	PARTSSET
+		INDEX = 0
+		PARENT = -1
+		POS = 0.0 120.0 0.0
+		ROT = 0.0 0.0 0.0
+	END_PARTSSET
+
+	PARTSSET
+		INDEX = 1
+		PARENT = 0
+		POS = 0.0 30.0 -90.0
+		ROT = 5.0 0.0 0.0
+	END_PARTSSET
+
+	PARTSSET
+		INDEX = 2
+		PARENT = 0
+		POS = -11.5 -1.0 75.0
+		ROT = 0.0 0.0 0.0
+	END_PARTSSET
+
+	PARTSSET
+		INDEX = 3
+		PARENT = 2
+		POS = 2.5 -50.0 0.0
+		ROT = 0.0 0.0 0.0
+	END_PARTSSET
+
+	PARTSSET
+		INDEX = 4
+		PARENT = 0
+		POS = 18.0 -1.0 -75.0
+		ROT = 0.0 0.0 0.0
+	END_PARTSSET
+
+	PARTSSET
+		INDEX = 5
+		PARENT = 4
+		POS = -2.5 -50.0 1.0
+		ROT = 0.0 0.0 0.0
+	END_PARTSSET
+
+	PARTSSET
+		INDEX = 6
+		PARENT = 0
+		POS = -15.0 20.0 60.0
+		ROT = 0.0 0.0 0.0
+	END_PARTSSET
+
+	PARTSSET
+		INDEX = 7
+		PARENT = 6
+		POS = 3.0 -65.0 30.0
+		ROT = 0.0 0.0 0.0
+	END_PARTSSET
+
+	PARTSSET
+		INDEX = 8
+		PARENT = 0
+		POS = 20.0 20.0 65.0
+		ROT = 0.0 0.0 0.0
+	END_PARTSSET
+
+	PARTSSET
+		INDEX = 9
+		PARENT = 8
+		POS = -6.0 -65.0 25.0
+		ROT = 0.0 0.0 0.0
+	END_PARTSSET
+
+	PARTSSET
+		INDEX = 10
+		PARENT = 1
+		POS = 0.0 0.0 280.0
+		ROT = 0.0 0.0 0.0
+	END_PARTSSET
+
+END_CHARACTERSET

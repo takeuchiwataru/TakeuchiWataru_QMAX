@@ -1,0 +1,192 @@
+32
+
+data\MODEL\Pazzle\gear0001.x
+data\MODEL\Pazzle\gear0101.x
+data\MODEL\Pazzle\gear0201.x
+data\MODEL\Pazzle\gear0201.x
+
+data\MODEL\Pazzle\gear0000.x
+data\MODEL\Pazzle\gear0100.x
+data\MODEL\Pazzle\gear0200.x
+data\MODEL\Pazzle\gear0200.x
+data\MODEL\Pazzle\gear0000.x
+data\MODEL\Pazzle\gear0100.x
+data\MODEL\Pazzle\gear0200.x
+data\MODEL\Pazzle\gear0200.x
+
+data\MODEL\Pazzle\gear0300.x
+
+data\MODEL\Pazzle\gear0001.x
+data\MODEL\Pazzle\gear0101.x
+
+data\MODEL\Pazzle\gear0000.x
+data\MODEL\Pazzle\gear0100.x
+data\MODEL\Pazzle\gear0200.x
+data\MODEL\Pazzle\gear0200.x
+data\MODEL\Pazzle\gear0000.x
+data\MODEL\Pazzle\gear0100.x
+data\MODEL\Pazzle\gear0200.x
+
+data\MODEL\Pazzle\gear0300.x
+
+data\MODEL\Pazzle\gear0201.x
+
+data\MODEL\Pazzle\gear0300.x
+
+data\MODEL\Pazzle\gear0000.x
+data\MODEL\Pazzle\gear0100.x
+data\MODEL\Pazzle\gear0000.x
+data\MODEL\Pazzle\gear0200.x
+data\MODEL\Pazzle\gear0100.x
+
+data\MODEL\Pazzle\gear0300.x
+data\MODEL\Pazzle\gear0201.x
+
+
+-1
+-250.0 0.0 0.0
+0.0 0.0 0.0
+
+-1
+-100.0 0.0 0.0
+0.0 0.78 0.0
+
+-1
+-100.0 0.0 150.0
+0.0 0.0 0.0
+
+-1
+-250.0 0.0 150.0
+0.0 0.78 0.0
+
+
+
+-1
+125.0 0.0 85.0
+0.0 0.78 0.0
+
+-1
+125.0 0.0 0.0
+0.0 0.0 0.0
+
+-1
+125.0 0.0 -85.0
+0.0 0.78 0.0
+
+-1
+210.0 0.0 -85.0
+0.0 0.0 0.0
+
+-1
+295.0 0.0 -85.0
+0.0 0.78 0.0
+
+-1
+295.0 0.0 0.0
+0.0 0.0 0.0
+
+-1
+295.0 0.0 85.0
+0.0 0.78 0.0
+
+-1
+210.0 0.0 85.0
+0.0 0.0 0.0
+
+
+
+-1
+30.0 0.0 0.0
+0.0 0.2 0.0
+
+
+
+-1
+25.0 0.0 225.0
+0.0 0.78 0.0
+
+-1
+-100.0 0.0 -150.0
+0.0 0.0 0.0
+
+
+
+-1
+295.0 0.0 170.0
+0.0 0.0 0.0
+
+-1
+295.0 0.0 255.0
+0.0 0.78 0.0
+
+-1
+380.0 0.0 255.0
+0.0 0.0 0.0
+
+-1
+465.0 0.0 255.0
+0.0 0.78 0.0
+
+-1
+465.0 0.0 170.0
+0.0 0.0 0.0
+
+-1
+465.0 0.0 85.0
+0.0 0.78 0.0
+
+-1
+380.0 0.0 85.0
+0.0 0.0 0.0
+
+
+
+-1
+210.0 0.0 -185.0
+0.0 0.78 0.0
+
+
+-1
+340.0 0.0 -220.0
+0.0 0.78 0.0
+
+
+
+-1
+-380.0 0.0 150.0
+0.0 0.0 0.0
+
+
+
+-1
+-475.0 0.0 150.0
+0.0 0.78 0.0
+
+-1
+-475.0 0.0 75.0
+0.0 0.0 0.0
+
+-1
+-475.0 0.0 -10.0
+0.0 0.78 0.0
+
+-1
+-475.0 0.0 -95.0
+0.0 0.0 0.0
+
+-1
+-395.0 0.0 -140.0
+0.0 0.78 0.0
+
+
+
+-1
+-355.0 0.0 -230.0
+0.0 0.78 0.0
+
+
+
+-1
+-220.0 0.0 -245.0
+0.0 0.0 0.0
+
